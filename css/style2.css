@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+
+h1, h2, h3, h4, h5, h6, #related .post_title, .ribbon, .trigger, .scl_button a, .fourofour a, .scl_wgt_tt{ font-family: 'Source Sans Pro', sans-serif; letter-spacing: 0.1em; font-weight: normal!important;}
+h1{ font-size:40px; }
+h2{font-size:24px;}
+h3{font-size:18px;}
+h4{font-size:18px;}
+h5{font-size:14px;}
+h6{font-size:12px;}
+.postitle a{font-size:18px;}
+.single_page_post .postitle a{ font-size:24px;}
+#topmenu ul li a{
+   font-family: 'Source Sans Pro', sans-serif!important;
+   font-size: 16px!important;
+   color: #bababa!important;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+ }
+
+ p, span{
+   font-family: 'Sintony', sans-serif;
+ }
