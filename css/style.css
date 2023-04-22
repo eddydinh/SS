@@ -21,10 +21,6 @@ Tags: theme-options, one-column, dark, blue, red, white, right-sidebar, left-sid
   visibility: hidden;
 }
 
-.video-controls, .video-controls-mobile{
-  visibility: hidden;
-}
-
 /*Color Change*/
 #topmenu ul li:hover, #topmenu ul li.current-menu-item{ background:transparent;}
 
